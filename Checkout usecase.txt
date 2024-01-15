@@ -1,1 +1,0 @@
-i created checkout page where user after select a product checkout
