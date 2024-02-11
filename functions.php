@@ -1,4 +1,4 @@
-<?php
+    <?php
 
 $db = mysqli_connect('localhost', 'root', '', 'threaderz_store');
 
